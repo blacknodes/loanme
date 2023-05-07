@@ -51,3 +51,7 @@ loand tx loan request-loan 1000token 100token 1000foocoin 500 --from alice     /
 loand tx loan approve-loan 0 --from bob                                        /// Approve loan
 loand q loan list-loan                                                         /// Query loan
 ```
+
+## Demo Build
+
+Deployment script for anyone who wants to deploy a Cosmos-SDK rollup with Rollkit can be found [here](https://github.com/subhamgurjar/LoanME_celestia/blob/main/demo.md).
