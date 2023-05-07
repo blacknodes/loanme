@@ -2,6 +2,9 @@
 
 LoanMe is a blockchain built using Cosmos SDK and Tendermint and created with Ignite CLI.
 
+![image](https://user-images.githubusercontent.com/85839823/236685640-cef4cdec-dea3-4c50-a102-32ff00834889.png)
+
+
 ## Description
 LoanMe enables users to lend and borrow digital assets from each other. Loan is a financial transaction in which one party, the borrower, receives a certain amount of assets, such as money or digital tokens, and agrees to pay back the loan amount plus a fee to the lender by a predetermined deadline. To secure the loan, the borrower provides collateral, which may be seized by the lender if the borrower fails to pay back the loan as agreed.
 
